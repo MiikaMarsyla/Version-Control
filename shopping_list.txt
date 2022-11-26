@@ -1,4 +1,4 @@
-Mandariinit
+Appelsiinit
 Salaattivärkit
 Paahtoleipä
 Ruisleipä
@@ -7,4 +7,3 @@ Maitoa
 Jogurttia
 Pastaa!
 Halloumjuusto
-
